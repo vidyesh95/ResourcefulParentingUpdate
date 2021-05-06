@@ -1,0 +1,330 @@
+<resources>
+    <string name="app_name">RPI</string>
+    <string name="default_notification_channel_id">Notification</string>
+    <string name="register">Daftar</string>
+    <string name="parent_name">Nama</string>
+    <string name="parent_no">Nomor Ponsel</string>
+<!--
+    <string name="email">722500117</string>
+-->
+    <string name="email">Alamat email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="signin">Masuk</string>
+    <string name="forgot_password">Lupa sandi?</string>
+    <string name="fb">Masuk dengan Facebook.</string>
+    <string name="register_fb">Daftar dengan Facebook</string>
+    <string name="login">Masuk</string>
+    <string name="or">atau</string>
+    <string name="new_member"> Anggota baru?</string>
+    <string name="no_internet_connection">Ada kesalahan internet atau koneksi. Silahkan coba lagi.</string>
+    <string name="how_old_is_child">Berapa umur anak Anda?</string>
+    <string name="bday_details">tanggal lahir anak</string>
+    <string-array name="date">
+        <item>tanggal</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="month">
+        <item>bulan</item>
+    </string-array>
+    <string-array name="year">
+        <item>tahun</item>
+    </string-array>
+    <string name="next">berikutnya</string>
+
+    <string name="whats_child_name">Anak Anda</string>
+    <string name="child_name">nama anak</string>
+    <string name="get_started">mulai</string>
+
+    <string name="home">home</string>
+    <string name="explorer">eksplor</string>
+    <string name="activity">aktifitas</string>
+    <string name="account">akun saya</string>
+    <string name="milestone">Milestone</string>
+
+    <string name="general">Umum</string>
+    <string name="set_parent_name">Nama Orang Tua</string>
+    <string name="change_password">Ubah Sandi</string>
+    <string name="about_us">Tentang Kami</string>
+    <string name="privacy_policy">Kebijakan Privasi</string>
+    <string name="terms">Syarat Dan Ketentuan</string>
+    <string name="faq">FAQ</string>
+    <string name="children">Anak</string>
+    <string name="logout">keluar</string>
+
+    <string name="recover_password">Pemulihan "lupa kata sandi"</string>
+    <string name="retrive_password">Lupa Sandi</string>
+    <string name="retrive_text">Untuk mendapatkan kembali kata sandi Anda, masukkan alamat email Anda di bawah ini kemudian klik untuk mengambil mendapatkan kata sandi
+</string>
+
+    <string name="old_password">Sandi Lama</string>
+    <string name="new_password">Sandi Baru</string>
+    <string name="confirm_password">Konfirmasi Sandi</string>
+    <string name="submit">Kirim</string>
+
+    <string name="change_profile_photo">Konfirmasi sandi</string>
+    <string-array name="birth_month">
+        <item>Birth Month</item>
+    </string-array>
+    <string-array name="birth_year">
+        <item>Birth Year</item>
+    </string-array>
+    <string name="height">Tinggi badan</string>
+    <string name="weight">Berat badan</string>
+    <string name="save_changes">Simpan perubahan</string>
+    <string name="delete">Hapus</string>
+
+    <string name="add_child">Tambah Anak</string>
+
+    <string name="questions">Questions</string>
+
+    <string name="activity_completed">Aktivitas Selesai</string>
+    <string name="points_earned">Nilai Terkumpul</string>
+    <string name="todays_target_activity">Target aktivitas hari ini</string>
+    <string name="environment">Environmental</string>
+    <string name="points">Nilai</string>
+    <string name="activity_name">Activity Name</string>
+    <string name="description">Description</string>
+    <string name="see_learning">Lihat apa yang dipelajari anak dari aktivitas ini</string>
+    <string name="learning">Learning</string>
+    <string name="we_did_it">Kita berhasil!</string>
+    <string name="milestone_reminder">Milestone Reminder</string>
+    <string name="do_it_again">Selesai</string>
+    <string name="camera"> Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="take_photo">Ambil foto</string>
+
+    <string name="title">Title</string>
+    <string name="short_description">Short Description</string>
+
+    <string name="category_name">Category Name</string>
+
+    <string name="Know_about_ur_child">Ketahui tentang anak Anda</string>
+    <string name="facebook_app_id">236263297500977</string>
+    <string name="fb_login_protocol_scheme">fb236263297500977</string>
+
+    <string name="privacyPolicyHeading">KEBIJAKAN PRIVASI RPI</string>
+    <string name="faqHeading">FAQ</string>
+    <string name="TnCHeading">KETENTUAN PENGGUNAAN APLIKASI RPI</string>
+    <string name="faqtext">Login and Signup\n
+                          "      "What information will I need to set up my account?\n
+                          "      "Should I use Google or Facebook to log in? \n
+                          "      "Is my phone supported? \n\n
+
+                          Security and Payment\n
+                        "      "Is the mobile app secure?\n
+  "      "Can I access the app abroad?\n
+  "      "Is there a fee for using the app?\n\n
+
+Features\n
+
+  "      "What features does the app include?\n
+  "      "How do I get started with the app? \n
+  "      "What is the questionnaire used for?\n
+  "      "Can I change or edit my child’s information after signing up? \n
+  "      "How many children can we add on the app?
+</string>
+
+    <string name="privacyPolicyText">
+Kebijakan Privasi berikut ini menjelaskan bagaimana kami, Resourceful Parenting Indonesia, mengumpulkan, menyimpan, menggunakan, mengolah, menguasai, mentransfer, mengungkapkan dan melindungi Informasi Pribadi anda. Kebijakan Privasi ini berlaku bagi seluruh pengguna aplikasi-aplikasi, situs web (www.resourcefulparenting.org) layanan, atau produk (“Aplikasi”) kami, kecuali diatur pada kebijakan privasi yang terpisah.
+Mohon baca Kebijakan Privasi ini dengan seksama untuk memastikan bahwa anda memahami bagaimana proses pengolahan data kami. Kecuali didefinisikan lain, semua istilah dengan huruf kapital yang digunakan dalam Kebijakan Privasi ini memiliki arti yang sama dengan yang tercantum dalam Ketentuan Pengunaan.
+Kebijakan Privasi ini mencakup hal-hal sebagai berikut:\n
+1.	Informasi Pribadi yang kami kumpulkan\n
+2.	Penggunaan Informasi Pribadi yang kami kumpulkan\n
+3.	Pemberian Informasi Pribadi yang kami kumpulkan\n
+4.	Penyimpanan Informasi Pribadi\n
+5.	Akses dan koreksi Informasi Pribadi\n
+6.	Tempat kami menyimpan Informasi Pribadi anda\n
+7.	Keamanan Informasi Pribadi anda\n
+8.	Perubahan atas Kebijakan Privasi ini\n
+9.	Pengakuan dan persetujuan\n
+10.	Materi pemasaran dan promosi\n
+11.	Data anonim\n
+12.	Platform pihak ketiga\n
+13.	Cara untuk menghubungi kami\n\n
+
+1.	INFORMASI PRIBADI YANG KAMI KUMPULKAN\n
+
+Kami mengumpulkan informasi yang mengidentifikasikan atau dapat digunakan untuk mengidentifikasi, menghubungi, atau menemukan orang atau perangkat yang terkait dengan informasi tersebut ("Informasi Pribadi"). Informasi Pribadi termasuk, tetapi tidak terbatas pada, nama, tanggal lahir, nomor telepon, atau alamat e-mail. Selain itu, untuk informasi lainnya, seperti profil pribadi, dan/atau nomor pengenal unik, yang dikaitkan atau digabungkan dengan Informasi Pribadi, maka informasi tersebut juga dianggap sebagai Informasi Pribadi. Informasi Pribadi yang kami kumpulkan dapat diberikan oleh anda secara langsung atau oleh pihak ketiga (misalnya: ketika anda mendaftar atau menggunakan Aplikasi, ketika anda menghubungi layanan pelanggan kami, atau sebaliknya ketika anda memberikan Informasi Pribadi kepada kami). Kami dapat mengumpulkan informasi dalam berbagai macam bentuk dan tujuan (termasuk tujuan yang diizinkan berdasarkan peraturan perundang-undangan yang berlaku).\n
+\n
+Informasi yang kami kumpulkan dari anda atau perangkat seluler anda secara langsung\n
+o	Ketika anda mendaftar dan membuat akun dengan kami menggunakan Aplikasi, anda harus memberikan kepada kami Informasi Pribadi tertentu, termasuk nama, alamat e-mail, dan nomor telepon anda.\n
+Informasi yang dikumpulkan setiap kali anda menggunakan Aplikasi atau mengunjungi situs web kami\n
+o	Setiap kali anda menggunakan Aplikasi atau mengunjungi situs web kami, kami dapat mengumpulkan data teknis tertentu sehubungan dengan penggunaan anda seperti, alamat protokol internet, informasi halaman web yang sebelumnya atau selanjutnya dilihat, durasi setiap kunjungan/sesi, identitas perangkat internet atau alamat kontrol akses media, dan mobile advertising ID dan informasi perangkat lainnya termasuk informasi mengenai produsen, model, dan sistem operasi dari perangkat yang anda gunakan untuk mengakses Aplikasi atau situs web kami.\n
+o	Ketika anda menggunakan Aplikasi atau mengunjungi situs web kami, informasi tertentu juga dapat dikumpulkan secara otomatis dengan menggunakan cookies. Cookies adalah berkas data kecil yang tersimpan pada komputer atau perangkat seluler anda. Kami menggunakan cookies untuk melacak aktivitas pengguna dengan tujuan untuk meningkatkan antarmuka dan pengalaman pengguna. Sebagian besar perangkat seluler dan peramban internet mendukung penggunaan cookies; namun anda dapat menyesuaikan pengaturan pada perangkat seluler atau peramban internet anda untuk menolak beberapa jenis cookies atau cookies spesifik tertentu. Perangkat seluler dan/atau peramban anda juga memungkinkan anda untuk menghapus cookies apa pun yang sebelumnya telah tersimpan. Namun demikian, hal itu dapat mempengaruhi fungsi-fungsi yang tersedia pada Aplikasi atau situs web kami.\n
+
+Informasi tentang pihak ketiga yang anda berikan kepada kami\n
+o	Anda dapat memberikan kepada kami Informasi Pribadi yang berkaitan dengan individu pihak ketiga lainnya (termasuk Informasi Pribadi yang berkaitan dengan pasangan anda, anggota keluarga, teman, atau individu lain). Anda tentu saja akan memerlukan persetujuan dari mereka terlebih dahulu untuk melakukannya - lihat “Pengakuan dan Persetujuan”, di bawah, untuk informasi lebih lanjut.\n\n
+2.	PENGGUNAAN INFORMASI PRIBADI YANG KAMI KUMPULKAN\n
+Kami dapat menggunakan Informasi Pribadi yang dikumpulkan untuk tujuan sebagai berikut maupun untuk tujuan lain yang diizinkan oleh peraturan perundang-undangan yang berlaku ("Tujuan"):\n
+a.	Jika anda adalah pengguna, kami dapat menggunakan Informasi Pribadi anda:\n
+	untuk mengidentifikasi dan mendaftarkan anda sebagai pengguna dan untuk mengadministrasikan, memverifikasi, menonaktifkan, atau mengelola akun anda;\n
+	untuk berkomunikasi dengan anda dan mengirimkan anda informasi sehubungan dengan penggunaan Aplikasi;\n
+	untuk memberitahu anda mengenai segala pembaruan pada Aplikasi atau perubahan pada layanan yang disediakan;\n
+	untuk mengolah dan menanggapi pertanyaan dan saran yang diterima dari anda;\n
+	untuk memelihara, mengembangkan, menguji, meningkatkan, dan mempersonalisasikan Aplikasi untuk memenuhi kebutuhan dan preferensi anda sebagai pengguna;\n
+	untuk memantau dan menganalisis aktivitas, perilaku, dan data demografis pengguna termasuk kebiasaan dan penggunaan berbagai layanan yang tersedia di Aplikasi;\n
+	untuk memproses dan mengelola reward points anda;\n
+	untuk menawarkan atau menyediakan layanan dari afiliasi atau mitra kami; dan
+	untuk mengirimkan anda komunikasi pemasaran, iklan, voucher, survei, dan informasi secara langsung atau terfokus, dan informasi tentang penawaran atau promosi khusus.\n
+b.	Sebagai pengguna yang memberikan Informasi Pribadi kepada kami, kami juga dapat menggunakan Informasi Pribadi anda secara lebih umum untuk tujuan-tujuan sebagai berikut (walaupun dalam kasus tertentu kami akan bertindak secara wajar dan tidak menggunakan Informasi Pribadi anda lebih dari apa yang diperlukan untuk tujuan tersebut):\n
+	untuk melakukan proses dan fungsi bisnis terkait;\n
+	untuk memantau penggunaan Aplikasi dan mengelola, mendukung serta meningkatkan efisiensi kinerja, perkembangan, pengalaman pengguna dan fungsi-fungsi Aplikasi;\n
+	untuk memberikan bantuan sehubungan dengan dan untuk menyelesaikan kesulitan teknis atau masalah operasional dengan Aplikasi atau layanan;
+	untuk menghasilkan informasi statistik dan data analitik untuk tujuan pengujian, penelitian, analisis, pengembangan produk, kemitraan komersial, dan kerja sama;\n
+	untuk mencegah, mendeteksi dan menyelidiki segala kegiatan yang dilarang, ilegal, tidak sah, atau curang;\n
+	untuk memfasilitasi transaksi aset bisnis (yang dapat berupa penggabungan, akuisisi, atau penjualan aset) yang melibatkan kami dan/atau afiliasi kami; dan
+	untuk memungkinkan kami mematuhi semua kewajiban berdasarkan peraturan perundang-undangan yang berlaku, termasuk namun tidak terbatas pada menanggapi permintaan, penyelidikan, atau arahan peraturan, mematuhi persyaratan pengarsipan, pelaporan, dan perizinan yang disyaratkan oleh peraturan yang berlaku) dan melakukan pemeriksaan audit, uji tuntas dan penyelidikan.\n
+\n
+
+3.	PEMBERIAN INFORMASI PRIBADI YANG KAMI KUMPULKAN\n
+ .	Kami dapat mengungkapkan atau membagikan Informasi Pribadi anda dengan afiliasi dan pihak lain untuk tujuan sebagai berikut ini serta untuk tujuan lain yang diizinkan oleh peraturan perundang-undangan yang berlaku:\n
+	jika anda adalah pengguna, untuk memungkinkan penyedia layanan, untuk melakukan atau memberikan layanan;\n
+	jika disyaratkan atau diotorisasikan oleh peraturan perundang-undangan yang berlaku (termasuk namun tidak terbatas pada menanggapi pertanyaan terkait regulasi, penyelidikan atau pedoman, atau mematuhi persyaratan atau ketentuan pengarsipan dan pelaporan berdasarkan undang-undang), untuk tujuan yang ditentukan dalam peraturan perundang-undangan yang berlaku;\n
+	jika diinstruksikan, diminta, disyaratkan atau diperbolehkan oleh pemerintah yang berwenang, untuk tujuan sebagaimana disebutkan dalam kebijakan pemerintah, peraturan atau peraturan perundang-undangan yang berlaku.\n
+	jika terdapat proses hukum dalam bentuk apapun antara anda dengan kami, atau antara anda dengan pihak lain, sehubungan dengan, atau terkait dengan layanan, untuk keperluan proses hukum tersebut;
+	kepada pihak ketiga (termasuk agen, vendor, pemasok, kontraktor, mitra, dan pihak lain yang memberikan layanan kepada kami atau anda, melakukan tugas atas nama kami, atau pihak dengan siapa kami mengadakan kerja sama komersial), untuk atau sehubungan dengan tujuan di mana pihak ketiga tersebut terlibat, untuk melaksanakan pengungkapan kepada pihak ketiga terkait yang secara teknis diperlukan untuk memproses transaksi anda atau tujuan kerja sama kami dengan pihak ketiga tersebut (tergantung keadaannya), yang dapat mencakup diperbolehkannya pihak ketiga tersebut untuk memperkenalkan atau menawarkan produk atau layanan kepada anda, melakukan autentikasi terhadap anda atau menghubungkan anda dengan Akun atau melakukan kegiatan lain termasuk pemasaran, penelitian, analisis dan pengembangan produk; dan
+	dalam hal kami berbagi Informasi Pribadi dengan afiliasi, kami akan melakukannya dengan maksud agar mereka membantu kami dalam menyediakan Aplikasi, untuk mengoperasikan bisnis kami (termasuk, ketika anda berlangganan milis kami, untuk tujuan pemasaran langsung), atau untuk tujuan pengolahan data atas nama kami. Semua afiliasi kami berkomitmen untuk mengolah Informasi Pribadi yang mereka terima dari kami sesuai dengan Kebijakan Privasi dan peraturan perundang-undangan yang berlaku ini.\n
+a.	Ketika Informasi Pribadi tidak perlu dikaitkan dengan anda, kami akan melakukan upaya yang wajar untuk menghapus dikaitkannya Informasi Pribadi tersebut dengan anda sebagai individu sebelum mengungkapkan atau berbagi informasi tersebut.\n
+b.	Kami tidak akan menjual atau menyewakan Informasi Pribadi anda.\n
+c.	Selain sebagaimana diatur dalam Kebijakan Privasi ini, kami dapat mengungkapkan dan membagikan Informasi Pribadi anda jika kami memberitahu anda dan kami telah memperoleh persetujuan anda untuk pengungkapan atau pembagian tersebut.\n\n
+4.	PENYIMPANAN INFORMASI PRIBADI\n
+ .	Informasi Pribadi anda hanya akan disimpan selama diperlukan untuk memenuhi tujuan dari pengumpulannya, atau selama penyimpanan tersebut diperlukan atau diperbolehkan oleh peraturan perundang-undangan yang berlaku. Kami akan berhenti menyimpan Informasi Pribadi, atau menghapus maksud dari dikaitkannya Informasi Pribadi tersebut dengan anda sebagai individu, segera setelah dianggap bahwa tujuan pengumpulan Informasi Pribadi tersebut tidak lagi dibutuhkan dengan menyimpan Informasi Pribadi dan penyimpanan tidak lagi diperlukan untuk tujuan bisnis atau secara hukum.\n
+a.	Mohon diperhatikan bahwa masih ada kemungkinan bahwa beberapa Informasi Pribadi anda disimpan oleh pihak lain dengan termasuk institusi pemerintah cara tertentu. Dalam hal kami membagikan Informasi Pribadi anda kepada institusi pemerintah yang berwenang dan/atau institusi lainnya yang dapat ditunjuk oleh pemerintah yang berwenang atau memiliki kerja sama dengan kami, anda menyetujui dan mengakui bahwa penyimpanan Informasi Pribadi anda oleh institusi terkait akan mengikuti kebijakan penyimpanan data masing-masing institusi tersebut. Informasi yang disampaikan melalui komunikasi antara pengguna yang dilakukan selain melalui penggunaan Aplikasi (seperti melalui panggilan telepon, SMS, pesan seluler atau cara komunikasi lainnya dan pengumpulan atas Informasi Pribadi anda oleh agen kami) juga dapat disimpan dengan beberapa cara. Kami tidak mengizinkan penyimpanan Informasi Pribadi dengan cara demikian dan kami tidak bertanggung jawab kepada anda untuk hal tersebut. Kami tidak akan bertanggung jawab atas penyimpanan Informasi Pribadi anda.\n\n
+5.	AKSES DAN KOREKSI INFORMASI PRIBADI\n
+ .	Tunduk pada peraturan perundang-undangan yang berlaku, anda dapat meminta kepada kami untuk mengakses dan/atau mengoreksi Informasi Pribadi anda yang berada dalam kepemilikan dan penguasaan kami, dengan menghubungi kami di perincian yang disediakan di bawah ini.\n
+a.	Kami berhak menolak permintaan anda untuk mengakses, atau untuk memperbaiki, sebagian atau semua Informasi Pribadi anda yang kami miliki atau kuasai jika diizinkan atau diperlukan berdasarkan perundang-undangan yang berlaku. Hal ini termasuk dalam keadaan di mana Informasi Pribadi tersebut dapat berisi referensi kepada orang lain atau di mana permintaan untuk akses atau permintaan untuk mengoreksi adalah untuk alasan yang kami anggap tidak relevan, tidak serius, atau menyulitkan.\n\n
+6.	KEAMANAN INFORMASI PRIBADI ANDA\n
+Kerahasiaan Informasi Pribadi anda adalah hal yang terpenting bagi kami. Kami akan memberlakukan upaya terbaik untuk melindungi dan mengamankan data dan Informasi Pribadi anda dari akses, pengumpulan, penggunaan atau pengungkapan oleh orang-orang yang tidak berwenang dan dari pengolahan yang bertentangan dengan hukum, kehilangan yang tidak disengaja, pemusnahan dan kerusakan atau risiko serupa. Namun, pengiriman informasi melalui internet tidak sepenuhnya aman. Walau kami akan berusaha sebaik mungkin untuk melindungi Informasi Pribadi anda, anda mengakui bahwa kami tidak dapat menjamin keutuhan dan keakuratan Informasi Pribadi apa pun yang anda kirimkan melalui Internet, atau menjamin bahwa Informasi Pribadi tersebut tidak akan dicegat, diakses, diungkapkan, diubah atau dihancurkan oleh pihak ketiga yang tidak berwenang, karena faktor-faktor di luar kendali kami. Anda bertanggung jawab untuk menjaga kerahasiaan detail Akun anda, termasuk kata sandi anda) dengan siapapun dan harus selalu menjaga dan bertanggung jawab atas keamanan perangkat yang anda gunakan.\n\n
+7.	PERUBAHAN ATAS KEBIJAKAN PRIVASI INI\n
+Kami dapat meninjau dan mengubah Kebijakan Privasi ini atas kebijakan kami sendiri dari waktu ke waktu, untuk memastikan bahwa Kebijakan Privasi ini konsisten dengan perkembangan kami di masa depan, dan/atau perubahan persyaratan hukum atau peraturan. Jika kami memutuskan untuk mengubah Kebijakan Privasi ini, kami akan memberitahu anda tentang perubahan tersebut melalui pemberitahuan umum yang dipublikasikan pada Aplikasi dan/atau situs web, atau sebaliknya ke alamat e-mail anda yang tercantum dalam Akun anda. Anda setuju bahwa anda bertanggung jawab untuk meninjau Kebijakan Privasi ini secara teratur untuk informasi terbaru tentang pengolahan data dan praktik perlindungan data kami, dan bahwa dengan anda terus menggunakan Aplikasi atau situs web kami, berkomunikasi dengan kami, atau mengakses dan menggunakan layanan setelah adanya perubahan apapun terhadap Kebijakan Privasi ini akan dianggap sebagai persetujuan anda terhadap Kebijakan Privasi ini dan segala perubahannya.\n\n
+8.	PENGAKUAN DAN PERSETUJUAN\n
+ .	Dengan menyetujui Kebijakan Privasi, anda mengakui bahwa anda telah membaca dan memahami Kebijakan Privasi ini dan menyetujui segala ketentuannya. Secara khusus, anda setuju dan memberikan persetujuan kepada kami untuk mengumpulkan, menggunakan, membagikan, mengungkapkan, menyimpan, mentransfer, atau mengolah Informasi Pribadi anda sesuai dengan Kebijakan Privasi ini.\n
+a.	Dalam keadaan di mana anda memberikan kepada kami Informasi Pribadi yang berkaitan dengan individu lain (seperti Informasi Pribadi yang berkaitan dengan pasangan anda, anggota keluarga, teman, atau pihak lain), anda menyatakan dan menjamin bahwa anda telah memperoleh persetujuan dari individu tersebut untuk, dan dengan ini menyetujui atas nama individu tersebut untuk, pengumpulan, penggunaan, pengungkapan dan pengolahan Informasi Pribadi mereka oleh kami.\n
+b.	Anda dapat menarik persetujuan anda untuk setiap atau segala pengumpulan, penggunaan atau pengungkapan Informasi Pribadi anda kapan saja dengan memberikan kepada kami pemberitahuan yang wajar secara tertulis menggunakan rincian kontak yang disebutkan di bawah ini. Anda juga dapat menarik persetujuan pengiriman komunikasi dan informasi tertentu dari kami melalui fasilitas "opt-out" atau pilihan "berhenti berlangganan" yang tersedia dalam pesan kami kepada anda. Tergantung pada keadaan dan sifat persetujuan yang anda tarik, anda harus memahami dan mengakui bahwa setelah penarikan persetujuan tersebut, anda mungkin tidak lagi dapat menggunakan Aplikasi atau layanan. Penarikan persetujuan anda dapat mengakibatkan penghentian Akun anda atau hubungan kontraktual anda dengan kami, dengan semua hak dan kewajiban yang muncul sepenuhnya harus dipenuhi. Setelah menerima pemberitahuan untuk menarik persetujuan untuk pengumpulan, penggunaan atau pengungkapan Informasi Pribadi anda, kami akan menginformasikan anda tentang konsekuensi yang mungkin terjadi dari penarikan tersebut sehingga anda dapat memutuskan apakah anda tetap ingin menarik persetujuan.\n\n
+9.	MATERI PEMASARAN DAN PROMOSI\n
+Kami dan mitra kami dapat mengirimkan anda pemasaran langsung, iklan, dan komunikasi promosi melalui aplikasi push-notification, pesan melalui Aplikasi, pos, panggilan telepon, layanan pesan singkat (SMS), dan email (“Materi Pemasaran”) jika anda telah setuju untuk berlangganan milis kami, dan/atau setuju untuk menerima materi pemasaran dan promosi dari kami. Anda dapat memilih untuk tidak menerima komunikasi pemasaran tersebut kapan saja dengan mengklik pilihan “berhenti berlangganan” yang ada dalam pesan yang bersangkutan, atau menghubungi kami melalui detail kontak yang tercantum di bawah ini. Mohon perhatikan bahwa jika anda memilih untuk keluar, kami masih dapat mengirimi anda pesan-pesan non-promosi, seperti tanda terima atau informasi tentang Akun anda.\n\n
+10.	DATA ANONIM\n
+Kami dapat membuat, menggunakan, melisensikan atau mengungkapkan Informasi Pribadi, yang tersedia, dengan catatan,\n (i) bahwa semua hal yang dapat mengidentifikasi telah dihapus sehingga data, baik sendiri atau dikombinasi dengan data lain yang tersedia, tidak dapat dihubungkan dengan atau dikaitkan dengan atau tidak dapat mengidentifikasi suatu individu, dan \n (ii) data serupa telah digabungkan sehingga data asli membentuk bagian dari kumpulan data yang lebih besar.\n
+\n
+11.	PLATFORM PIHAK KETIGA\n
+ .	Aplikasi, situs web, dan Materi Pemasaran dapat berisi tautan ke situs web yang dioperasikan oleh pihak ketiga. Kami tidak mengendalikan atau menerima pertanggungjawaban atau tanggung jawab untuk situs web ini dan untuk pengumpulan, penggunaan, pemeliharaan, berbagi, atau pengungkapan data dan informasi oleh pihak ketiga tersebut. Silakan baca syarat dan ketentuan dan kebijakan privasi dari situs web pihak ketiga tersebut untuk mengetahui bagaimana mereka mengumpulkan dan menggunakan Informasi Pribadi anda.\n
+a.	Saat anda menggunakan Aplikasi kami dan mengaktifkan fitur sidik jari (fingerprint)dan/atau pengenalan wajah (facial recognition) di perangkat seluler anda untuk keperluan autentikasi, harap dicatat bahwa kami tidak menyimpan data biometrik tersebut. Kecuali diberitahukan lain kepada anda, data tersebut tersimpan di perangkat seluler anda dan dapat disimpan oleh pihak ketiga, seperti pembuat perangkat anda. Anda setuju dan mengakui bahwa kami tidak bertanggung jawab atas setiap akses tidak sah atau kerugian apapun atas data biometrik yang tersimpan di perangkat seluler anda.\n
+b.	Iklan yang terdapat pada Aplikasi, situs web, dan Materi Pemasaran kami berfungsi sebagai tautan ke situs web pengiklan dan dengan demikian segala informasi yang mereka kumpulkan berdasarkan klik anda pada tautan itu akan dikumpulkan dan digunakan oleh pengiklan yang relevan sesuai dengan kebijakan privasi pengiklan tersebut.
+\n\n
+12.	CARA UNTUK MENGHUBUNGI KAMI\n
+Jika anda memiliki pertanyaan mengenai Kebijakan Privasi ini atau anda ingin mendapatkan akses dan/atau melakukan koreksi terhadap Informasi Pribadi anda, silahkan hubungi resourcefulparenting02@gmail.com
+Untuk pertanyaan atau keluhan lainnya, anda dapat menghubungi kami melalui email atau telefon melalui kontak berikut :\n
+Call Center
+•	Untuk Layanan Konsumen:\n
+o	Emil 		: 0896-6548-9899\n
+o	Niken	: 0812-1541-0709\n
+</string>
+
+    <string name="TnCText">
+Selamat datang di Aplikasi RPI!\n\n
+1.	Ketentuan Umum\n
+BACALAH SELURUH KETENTUAN PENGGUNAAN INI SEBELUM MENGAKSES ATAU MENGGUNAKAN APLIKASI RPI.\n
+Ketentuan Penggunaan ini adalah perjanjian antara pengguna (“Anda”) dan Lembaga Meliala Pinem (“Kami”), sebuah lembaga yang didirikan dan beroperasi secara sah berdasarkan hukum negara Republik Indonesia dan berdomisili di Daerah Istimewa Yogyakarta, Indonesia. Ketentuan Penggunaan ini mengatur akses dan penggunaan Anda atas aplikasi, situs web (www.resourcefulparenting.org) dan situs web lain yang Kami kelola, konten dan produk yang disediakan oleh Kami (selanjutnya, secara bersama-sama disebut sebagai “Aplikasi”), serta pemesanan, pembayaran atau penggunaan layanan yang tersedia pada Aplikasi (“Layanan”).\n
+Dengan menyetujui Ketentuan Penggunaan ini, Anda juga menyetujui Ketentuan Penggunaan tambahan, termasuk Ketentuan Penggunaan pada setiap Layanan, dan perubahannya yang merupakan bagian yang tidak terpisahkan dari Ketentuan Penggunaan ini (selanjutnya, Ketentuan Penggunaan, Ketentuan Penggunaan tambahan, dan perubahannya secara bersama-sama disebut sebagai “Ketentuan Penggunaan”). Meskipun merupakan satu kesatuan, Ketentuan Penggunaan tambahan akan berlaku dalam hal terdapat perbedaan dengan Ketentuan Penggunaan.\n\n
+2.	Penggunaan Aplikasi dan Layanan\n
+Akses dan penggunaan Aplikasi tunduk pada Ketentuan Penggunaan ini.\n
+Anda mempunyai kebebasan penuh untuk memilih menggunakan Aplikasi atau aplikasi lain, menggunakan Layanan yang tersedia pada Aplikasi atau tidak, atau berhenti menggunakan Aplikasi.\n
+Kami hanya memfasilitasi Anda untuk menemukan berbagai Layanan yang Anda perlukan dengan menyediakan Aplikasi.\n\n
+3.	Pembukaan dan Pengaksesan Akun RPI\n
+Sebelum menggunakan Aplikasi, Anda harus menyetujui Ketentuan Penggunaan ini dan Kebijakan Privasi, dan mendaftarkan diri Anda dengan memberikan informasi yang dibutuhkan oleh Kami. Saat melakukan pendaftaran, Kami akan meminta Anda untuk memberikan nama lengkap, alamat email, dan nomor telepon seluler pribadi Anda yang sah. Anda dapat mengubah informasi data diri Anda pada fitur pengaturan dalam Aplikasi.\n
+Setelah melakukan verifikasi, sistem Kami akan membuatkan akun RPI pribadi (“Akun”) untuk Anda yang dapat digunakan untuk menggunakan Aplikasi. Nomor telepon genggam Anda melekat pada Akun Anda sehingga Anda tidak bisa membuat Akun baru dengan nomor telepon genggam yang sudah didaftarkan. Hal yang sama juga berlaku apabila di kemudian hari Anda mengubah nomor telepon genggam Anda pada menu pengaturan di Aplikasi.\n\n
+4.	Akun Anda\n
+Akun Anda hanya dapat digunakan oleh Anda dan tidak bisa dialihkan kepada orang lain dengan alasan apapun. Kami berhak menolak untuk memfasilitasi pesanan jika Kami mengetahui atau mempunyai alasan yang cukup untuk menduga bahwa Anda telah mengalihkan atau membiarkan Akun Anda digunakan oleh orang lain.\n
+Keamanan dan kerahasiaan Akun Anda, termasuk nama terdaftar, alamat surat elektronik terdaftar, nomor telepon genggam terdaftar merupakan tanggung jawab pribadi Anda. Semua kerugian dan risiko yang ada akibat kelalaian Anda menjaga keamanan dan kerahasiaan sebagaimana disebutkan ditanggung oleh Anda sendiri. Dalam hal demikian, Kami akan menganggap setiap penggunaan melalui Akun Anda sebagai permintaan yang sah dari Anda.\n
+Segera beritahukan Kami jika Anda mengetahui atau menduga bahwa Akun Anda telah digunakan tanpa sepengetahuan dan persetujuan Anda. Kami akan melakukan tindakan yang Kami anggap perlu dan dapat Kami lakukan terhadap penggunaan tanpa persetujuan tersebut.\n\n
+5.	Informasi Pribadi\n
+Pengumpulan, penyimpanan, pengolahan, penggunaan dan pembagian informasi pribadi Anda, seperti nama, alamat surat elektronik, dan nomor telepon genggam Anda yang Anda berikan ketika Anda membuka Akun tunduk pada Kebijakan Privasi, yang merupakan bagian yang tidak terpisahkan dari Ketentuan Penggunaan ini.\n\n
+6.	Konten, Informasi dan Promosi\n
+Kami atau pihak lain yang bekerja sama dengan Kami dapat menyediakan Konten Pihak Ketiga yang dapat Anda temukan pada Aplikasi. Dalam hal Konten Pihak Ketiga disediakan oleh pihak lain yang bekerja sama dengan Kami (“Penyedia Konten Pihak Ketiga”), Kami tidak bertanggung jawab atas bagian apapun dari isi Konten Pihak Ketiga. Akses atau penggunaan Anda terhadap Konten Pihak Ketiga tersebut merupakan bentuk persetujuan Anda untuk tunduk pada syarat dan ketentuan yang ditetapkan oleh Kami atau Penyedia Konten Pihak Ketiga, termasuk terhadap Kebijakan Privasi Kami atau Penyedia Konten Pihak Ketiga.\n
+Konten Pihak Ketiga adalah setiap dan/atau seluruh informasi dan penawaran barang dan/atau jasa, yang dibuat dan/atau disusun dan/atau dikembangkan dan/atau dikelola oleh Penyedia Konten Pihak Ketiga termasuk namun tidak terbatas pada teks atau tulisan, gambar, quotes atau kutipan, foto, ilustrasi, animasi, video, rekaman suara atau musik, judul, deskripsi dan/atau setiap data dalam bentuk apapun yang disediakan oleh Penyedia Konten Pihak Ketiga untuk ditampilkan pada Aplikasi RPI, termasuk setiap tautan yang menghubungkan kepadanya. Untuk menghindari keraguan, Konten Pihak Ketiga mencakup pula setiap dan/atau seluruh penawaran barang dan/atau jasa, informasi, data, berita aktual, tulisan, gambar, kutipan, foto, ilustrasi, animasi, video, rekaman suara, yang diperoleh Penyedia Konten Pihak Ketiga dari pihak ketiga, dimana Penyedia Konten Pihak Ketiga telah memiliki kewenangan untuk menggunakan dan mendistribusikan konten tersebut.\n
+Kami atau pihak lain yang bekerja sama dengan Kami dapat memberikan penawaran atau promosi (“Penawaran”) yang dapat ditukar dengan barang, Layanan atau manfaat lain terkait dengan penggunaan Aplikasi. Dalam hal Penawaran disediakan oleh pihak lain yang bekerja sama dengan Kami (“Penyedia Penawaran”), Kami tidak bertanggung jawab atas bagian apapun dari isi Penawaran tersebut. Akses atau penggunaan Anda terhadap Penawaran merupakan bentuk persetujuan Anda untuk tunduk pada syarat dan ketentuan yang ditetapkan oleh Kami atau Penyedia Penawaran, termasuk terhadap Kebijakan Privasi Kami atau Penyedia Penawaran.\n
+Semua informasi, Penawaran yang terdapat pada Aplikasi hanya dimaksudkan untuk memberikan Anda pengalaman terbaik ketika menggunakan Aplikasi atau Layanan. Anda tidak boleh menyalahgunakan Penawaran yang Anda terima selama penggunaan Aplikasi atau Layanan.\n
+Anda setuju untuk menggunakan Penawaran tersebut sesuai dengan syarat, ketentuan, dan maksud dari pemberian Penawaran dan tidak akan menyalahgunakan, menggandakan, menguangkan, mengalihkan, menggunakan untuk kepentingan komersial atau mengambil keuntungan dengan tidak wajar dari promosi tersebut dengan bentuk atau cara apapun.\n
+Anda memahami bahwa Penawaran tidak dapat ditukar dengan uang tunai, memiliki masa keberlakuan yang terbatas dan tunduk pada ketentuan yang berlaku untuk setiap Penawaran tersebut.\n\n
+7.	Biaya dan Pembayaran\n
+Pengunduhan perangkat lunak dan penggunaan Aplikasi adalah bebas biaya. Namun, Kami dapat mengenakan biaya untuk penggunaan fitur tertentu pada Aplikasi di kemudian hari.\n\n
+8.	Perangkat Lunak Aplikasi\n
+Kami hanya menyediakan perangkat lunak Aplikasi yang resmi pada pasar digital resmi, seperti Google Play Store atau Apple App Store,dan untuk digunakan hanya pada perangkat telepon genggam atau tablet. Mengunduh Aplikasi dari tempat lain selain pasar digital resmi dan/atau ke dalam perangkat lain selain telepon genggam atau tablet merupakan pelanggaran terhadap Ketentuan Penggunaan ini dan terhadap hak kekayaan intelektual Kami.\n\n
+9.	Kekayaan Intelektual\n
+Aplikasi dan Layanan, termasuk namun tidak terbatas pada, nama, logo, kode program, desain, merek dagang, teknologi, basis data, proses dan model bisnis, dilindungi oleh hak cipta, merek, paten dan hak kekayaan intelektual lainnya yang tersedia berdasarkan hukum Republik Indonesia yang terdaftar baik atas nama Kami ataupun afiliasi Kami. Kami (dan pemberi lisensi Kami) memiliki seluruh hak dan kepentingan atas Aplikasi dan Layanan, termasuk seluruh hak kekayaan intelektual terkait dengan seluruh fitur yang terdapat didalamnya dan hak kekayaan intelektual terkait.\n
+Tunduk pada Ketentuan Penggunaan ini, Kami memberikan Anda lisensi terbatas yang tidak eksklusif, dapat ditarik kembali, tidak dapat dialihkan (tanpa hak sublisensi) untuk (i) mengunduh, mengakses, dan menggunakan Aplikasi, sebagaimana adanya, hanya pada perangkat berupa telepon genggam dan/atau tablet pribadi Anda dan hanya untuk keperluan terkait penggunaan Layanan, dan (ii) mengakses atau menggunakan konten, informasi dan materi terkait yang tersedia pada Aplikasi hanya untuk kepentingan pribadi dan bukan tujuan komersial. Hak dan hak istimewa lainnya yang tidak secara tegas diberikan dalam Ketentuan Penggunaan ini, adalah hak Kami atau pemberi lisensi Kami.\n
+Setiap penggandaan, distribusi, pembuatan karya turunan, penjualan atau penawaran untuk menjual, penampilan baik sebagian atau seluruhnya, serta penggunaan Aplikasi dan/atau Layanan, baik secara digital atau lainnya atau pada perangkat selain telepon genggam atau tablet, termasuk namun tidak terbatas pada penggunaan aplikasi tambahan seperti aplikasi modifikasi, emulator, dan lain-lain, yang menyimpang dari Ketentuan Penggunaan ini, maupun tujuan penggunaan yang ditentukan oleh Kami, merupakan pelanggaran terhadap hak kekayaan intelektual Kami.\n
+Anda tidak boleh:\n
+i.	menghapus setiap pemberitahuan hak cipta, merek dagang atau pemberitahuan hak milik lainnya yang terkandung dalam Aplikasi;\n
+ii.	menyalin, memodifikasi, mengadaptasi, menerjemahkan, membuat karya turunan dari, mendistribusikan, memberikan lisensi, menjual, mengalihkan, menampilkan di muka umum baik sebagian maupun seluruhnya, merekayasa balik (reverse engineer), mentransmisikan, memindahkan, menyiarkan, menguraikan, atau membongkar bagian manapun dari atau dengan cara lain mengeksploitasi Aplikasi (termasuk perangkat lunak, fitur dan Layanan di dalamnya);\n
+iii.	memberikan lisensi, mensublisensikan, menjual, menjual kembali, memindahkan, mengalihkan, mendistribusikan atau mengeksploitasi secara komersial atau membuat tersedia kepada pihak lain Aplikasi dan/atau perangkat lunak dengan cara menciptakan tautan (link) internet ke Aplikasi atau "frame" atau "mirror" setiap perangkat lunak pada server lain atau perangkat nirkabel atau yang berbasis internet;\n
+iv.	meluncurkan program otomatis atau script, termasuk, namun tidak terbatas pada, web spiders, web crawlers, web robots, web ants, web indexers, bots,virus atau worm, atau program apapun yang mungkin membuat beberapa permintaan server per detik, menciptakan beban berat atau menghambat operasi dan/atau kinerja Aplikasi;\n
+v.	menggunakan aplikasi pencarian atau pengambilan kembali situs, perangkat manual atau otomatis lainnya untuk mengambil (scraping), indeks (indexing), survei (surveying), tambang data (data mining), atau dengan cara apapun memperbanyak atau menghindari struktur navigasi atau presentasi dari Aplikasi atau isinya;\n
+vi.	menerbitkan, mendistribusikan atau memperbanyak dengan cara apapun materi yang dilindungi hak cipta, merek dagang, atau informasi lain yang Kami miliki tanpa persetujuan tertulis terlebih dahulu dari Kami atau pemilik hak yang melisensikan hak-nya kepada Kami, dan\n
+vii.	menggunakan dan/atau mengakses secara tidak resmi Aplikasi untuk (a) merusak, melemahkan atau membahayakan setiap aspek dari Aplikasi, Layanan atau sistem dan jaringan terkait, dan/atau (b) membuat produk atau layanan tandingan serupa menggunakan ide, fitur, fungsi atau grafik menyerupai Aplikasi.\n\n
+10.	Tanggung Jawab Anda\n
+Anda bertanggung jawab penuh atas keputusan yang Anda buat untuk menggunakan atau mengakses Aplikasi, Layanan, Konten Pihak Ketiga, Penawaran atau Metode Pembayaran. Anda harus memperlakukan Penyedia Layanan, Penyedia Konten Pihak Ketiga, Penyedia Penawaran dan Penyedia Metode Pembayaran dengan hormat dan tidak boleh terlibat dalam perilaku atau tindakan yang tidak sah, mengancam atau melecehkan ketika menggunakan Layanan, Konten Pihak Ketiga, atau Penawaran.\n
+Anda bertanggung jawab secara penuh atas setiap kerugian dan/atau klaim yang timbul dari penggunaan Aplikasi, Layanan, Konten Pihak Ketiga, Penawaran atau Metode Pembayaran melalui Akun Anda, baik oleh Anda atau pihak lain yang menggunakan Akun Anda, dengan cara yang bertentangan dengan Ketentuan Penggunaan ini, Kebijakan Privasi, termasuk syarat dan ketentuan dan kebijakan privasi yang ditentukan oleh Penyedia Layanan, Penyedia Konten Pihak Ketiga, Penyedia Penawaran dan Penyedia Metode Pembayaran, atau peraturan perundang-undangan yang berlaku, termasuk namun tidak terbatas untuk tujuan anti pencucian uang, anti pendanaan terorisme, aktivitas kriminal, penipuan dalam bentuk apapun (termasuk namun tidak terbatas pada kegiatan phishingdan/atau social engineering), pelanggaran hak kekayaan intelektual, dan/atau aktivitas lain yang merugikan publik dan/atau pihak lain manapun atau yang dapat atau dianggap dapat merusak reputasi Kami.\n\n
+11.	Batasan Tanggung Jawab Kami\n
+Kami menyediakan Aplikasi sebagaimana adanya dan Kami tidak menyatakan atau menjamin bahwa keandalan, ketepatan waktu, kualitas, kesesuaian, ketersediaan, akurasi, kelengkapan atau keamanan dari Aplikasi dapat memenuhi kebutuhan dan akan sesuai dengan harapan Anda, termasuk namun tidak terbatas pada Layanan, Konten Pihak Ketiga, Penawaran dan Metode Pembayaran yang sepenuhnya menjadi tanggung jawab Penyedia Layanan, Penyedia Konten Pihak Ketiga, Penyedia Penawaran dan Penyedia Metode Pembayaran. Kami tidak bertanggung jawab atas setiap kerugian atau kerusakan yang disebabkan oleh setiap kegagalan atau kesalahan yang dilakukan oleh Penyedia Layanan, Penyedia Konten Pihak Ketiga, Penyedia Penawaran atau Penyedia Metode Pembayaran ataupun kegagalan atau kesalahan Anda dalam mematuhi Ketentuan Penggunaan Kami, Penyedia Layanan, Penyedia Konten Pihak Ketiga, Penyedia Penawaran atau Penyedia Metode Pembayaran.\n
+Aplikasi dapat mengalami keterbatasan, penundaan, dan masalah-masalah lain yang terdapat dalam penggunaan internet dan komunikasi elektronik, termasuk perangkat Anda, Penyedia Layanan, Penyedia Konten Pihak Ketiga, Penyedia Penawaran atau Penyedia Metode Pembayaran rusak, tidak terhubung dengan internet, berada di luar jangkauan, dimatikan atau tidak berfungsi. Kami tidak bertanggung jawab atas keterlambatan, kegagalan pengiriman, kerusakan atau kerugian yang diakibatkan oleh masalah-masalah tersebut.\n
+Kami tidak berkewajiban untuk mengawasi akses atau penggunaan Anda atas Aplikasi. Namun, Kami tetap melakukan pengawasan untuk tujuan memastikan kelancaran penggunaan Aplikasi dan untuk memastikan kepatuhan terhadap Ketentuan Penggunaan ini, peraturan perundang-undangan yang berlaku, putusan pengadilan, dan/atau ketentuan lembaga administratif atau badan pemerintahan lainnya.\n
+Kami tidak mempunyai kewajiban apapun, termasuk untuk mengambil tindakan lebih jauh atau tindakan hukum yang dianggap perlu oleh Anda, Penyedia Layanan, Penyedia Konten Pihak Ketiga, Penyedia Penawaran atau Penyedia Metode Pembayaran, terhadap setiap permasalahan atau perselisihan yang timbul antara Anda dan Penyedia Layanan, Penyedia Konten Pihak Ketiga, Penyedia Penawaran atau Penyedia Metode Pembayaran. Tetapi, Kami akan memfasilitasi setiap permasalahan atau perselisihan yang timbul antara Anda dan Penyedia Layanan, Penyedia Konten Pihak Ketiga, Penyedia Penawaran atau Penyedia Metode Pembayaran dengan upaya wajar yang diperlukan. Ketika Kami memfasilitasi penyelesaian permasalahan atau perselisihan antara Anda dan Penyedia Layanan, Penyedia Konten Pihak Ketiga, Penyedia Penawaran atau Penyedia Metode Pembayaran, Kami tidak bertindak sebagai mediator dan hal tersebut tidak menimbulkan kewajiban lebih jauh apapun terhadap Kami.\n\n
+12.	Penyelesaian Masalah\n
+Apabila Anda mengalami gangguan sistem, mengetahui atau menduga bahwa Akun Anda diretas, digunakan atau disalahgunakan oleh pihak lain, atau apabila perangkat telepon genggam atau tablet pribadi Anda hilang, dicuri, diretas atau terkena virus, segera laporkan kepada Kami sehingga Kami dapat segera mengambil tindakan yang diperlukan untuk menghindari penggunaan, penyalahgunaan, atau kerugian yang timbul atau mungkin timbul lebih lanjut.\n
+Apabila Anda mengalami kendala atau masalah terkait Layanan, Konten Pihak Ketiga, Penawaran atau pembayaran melalui Metode Pembayaran, atau perlakuan Penyedia Layanan, Penyedia Konten Pihak Ketiga, Penyedia Penawaran atau Penyedia Metode Pembayaran Anda dapat menyampaikan keluhan Anda melalui fitur yang Kami sediakan, termasuk pemberian peringkat dan komentar, atau dengan menghubungi Kami.\n
+Untuk menyampaikan keluhan, pertanyaan, sanggahan, dan lain-lain (“Laporan”), Anda perlu memberikan informasi yang cukup, termasuk namun tidak terbatas pada, ringkasan fakta yang terjadi, bukti-bukti yang Anda miliki, nomor pesanan, dan informasi pribadi, seperti alamat surat elektronik dan nomor telepon genggam terdaftar.\n
+Untuk menanggapi setiap Laporan yang Anda sampaikan, Kami akan melakukan verifikasi terlebih dahulu dengan mencocokan informasi yang Anda berikan dan informasi pribadi Anda yang terdapat dalam sistem Kami. Jika diperlukan, Kami dapat secara langsung meminta Anda memberikan informasi yang diperlukan untuk tujuan verifikasi.\n
+Kami dapat menolak untuk menindaklanjuti Laporan Anda jika informasi yang Anda berikan tidak cocok dengan informasi pribadi yang terdapat dalam sistem Kami atau apabila Laporan disampaikan terkait, terhadap, atas nama atau oleh pihak lain yang berbeda dengan pemilik Akun yang bersangkutan yang terdaftar secara resmi pada sistem Kami. Kami dapat memberhentikan tindak lanjut terhadap Laporan Anda jika Kami, dengan kebijakan Kami sepenuhnya, menganggap bahwa Laporan Anda tidak didukung oleh fakta-fakta yang cukup dan jelas, atau telah selesai. Kami juga dapat meneruskan Laporan Anda kepada Penyedia Layanan, Penyedia Konten Pihak Ketiga, Penyedia Penawaran atau Penyedia Metode Pembayaran untuk diselesaikan secara langsung oleh Anda dan Penyedia Layanan, Penyedia Konten Pihak Ketiga, Penyedia Penawaran atau Penyedia Metode Pembayaran.\n
+Terhadap Laporan tertentu terkait Layanan, Kami dapat, dengan kebijakan Kami sepenuhnya, memfasilitasi pertemuan antara Anda dan Penyedia Layanan untuk tujuan penyelesaian masalah secara damai dan kekeluargaan. Dalam hal demikian, jika Anda merasa tetap perlu mengambil tindakan lain, termasuk tindakan hukum apapun, Anda dapat melakukannya atas tanggung jawab pribadi Anda sepenuhnya.\n\n
+13.	Pembekuan Sementara dan Pembekuan Permanen Akun RPI\n
+Anda dapat menghapus Aplikasi dari telepon genggam dan/atau tablet Anda setiap saat. Kami tidak memiliki kewajiban apapun kepada Anda terhadap hal-hal yang timbul sejak penghapusan Aplikasi, pembekuan sementara atau pembekuan permanen Akun Anda. Akan tetapi, Anda tetap bertanggung jawab untuk menyelesaikan kewajiban-kewajiban Anda yang telah timbul, termasuk namun tidak terbatas pada, setiap kewajiban yang mungkin timbul akibat adanya sengketa, tuntutan, maupun tindakan hukum lainnya yang telah ada, sebelum tanggal penghapusan Aplikasi, pembekuan sementara atau pembekuan permanen Akun Anda.\n
+Akun Anda dapat dibekukan untuk sementara waktu atau dapat dibekukan secara permanen karena hal-hal, termasuk namun tidak terbatas pada, sebagai berikut:\n
+a.	Laporan Anda bahwa Akun Anda digunakan atau diduga digunakan atau disalahgunakan oleh orang lain;\n
+b.	Laporan Anda bahwa telepon genggam atau tablet pribadi Anda hilang, dicuri atau diretas;\n
+c.	Kami mengetahui atau mempunyai alasan yang cukup untuk menduga bahwa Akun Anda telah dialihkan atau digunakan oleh orang lain;\n
+d.	Kami mengetahui atau dengan alasan yang cukup menduga bahwa telah terjadi hal-hal yang menurut pandangan Kami telah atau dapat merugikan Kami, Anda, Penyedia Layanan atau pihak lainnya;\n
+e.	Kami mengetahui atau dengan alasan yang cukup menduga bahwa anda telah mendaftar atau masuk dalam banyak Akun dalam satu perangkat untuk tujuan melanggaran Ketentuan Penggunaan, Kebijakan Privasi atau peraturan dan hukum yang berlaku.\n
+f.	Sistem Kami mendeteksi adanya tindakan yang tidak wajar dari penggunaan Akun Anda atau adanya kewajiban berdasarkan Ketentuan Penggunaan, dan/atau Kebijakan Privasi yang tidak dipenuhi oleh Anda;\n
+g.	Anda telah meninggal dunia, ditempatkan di bawah perwalian atau pengampuan atau mengalami ketidakmampuan lainnya yang menjadikan Anda tidak cakap hukum berdasarkan peraturan perundang-undangan yang berlaku;\n
+h.	Penggunaan Aplikasi atau Layanan oleh Anda atau pihak lain (yang menggunakan Akun Anda) dengan cara yang bertentangan dengan Ketentuan Penggunaan ini, Kebijakan Privasi atau peraturan perundang-undangan yang berlaku; dan/atau\n
+i.	Perintah untuk pembekuan akun, baik sementara atau permanen, yang diterbitkan oleh institusi pemerintah atau moneter terkait atau berdasarkan perintah pengadilan yang diterbitkan sesuai dengan peraturan perundang-undangan yang berlaku.\n
+Jika Akun Anda dibekukan dan Anda memiliki bukti yang jelas bahwa Akun Anda seharusnya tidak dibekukan, Anda dapat membuat Laporan kepada Kami untuk menyampaikan bukti-bukti tersebut. Setelah melakukan pemeriksaan lebih lanjut terhadap Laporan Anda, Kami akan, atas kebijakan Kami sepenuhnya, menentukan untuk mengakhiri atau melanjutkan pembekuan terhadap Akun Anda. Pembekuan tidak akan diteruskan secara tidak wajar apabila Kami memutuskan bahwa hal-hal yang mengakibatkan terjadinya pembekuan telah diselesaikan.\n\n
+14.	Tindakan yang Kami Anggap Perlu\n
+Apabila Kami mengetahui atau mempunyai alasan yang cukup untuk menduga bahwa Anda telah melakukan tindakan asusila, pelanggaran, kejahatan atau tindakan lain yang bertentangan dengan Ketentuan Penggunaan ini dan/atau peraturan perundang-undangan yang berlaku, baik yang dirujuk dalam Ketentuan Penggunaan ini atau tidak, maka Kami berhak untuk dan dapat membekukan Akun, baik sementara atau permanen, atau menghentikan akses Anda terhadap Aplikasi, termasuk Layanan, Konten Pihak Ketiga, Penawaran dan/atau Metode Pembayaran yang terdapat di dalamnya, melakukan pemeriksaan, menuntut ganti kerugian, melaporkan kepada pihak berwenang dan/atau mengambil tindakan lain yang kami anggap perlu, termasuk tindakan hukum pidana maupun perdata.\n
+Kami akan menindaklanjuti dengan melakukan investigasi dan/atau memfasilitasi Penyedia Layanan yang bersangkutan untuk melaporkan kepada pihak yang berwajib apabila Kami menerima Laporan adanya pelanggaran yang Anda lakukan atas Ketentuan Penggunaan ini ataupun pelanggaran terhadap peraturan perundang-undangan yang berlaku, sehubungan dengan:\n
+ .	Pelecehan atau kekerasan verbal, termasuk namun tidak terbatas pada, atas fisik, jenis kelamin, suku, agama dan ras, yang Anda lakukan terhadap Penyedia Layanan;\n
+a.	Pelecehan atau kekerasan fisik yang Anda lakukan terhadap Penyedia Layanan; dan/atau\n
+b.	Pelecehan atau kekerasan seksual, baik secara verbal maupun fisik, yang Anda lakukan terhadap Penyedia Layanan.\n
+Ketentuan ini juga berlaku sebaliknya apabila Anda mengalami tindakan sebagaimana disebutkan di atas yang dilakukan oleh Penyedia Layanan terhadap Anda.\n\n
+15.	Pernyataan Anda\n
+Anda menyatakan dan menjamin bahwa Anda telah berusia minimal 18 (delapan belas) tahun atau sudah menikah dan tidak berada di bawah perwalian atau pengampuan dan Anda secara hukum memiliki kapasitas dan berhak untuk mengikatkan diri pada Ketentuan Penggunaan ini. Jika Anda tidak memenuhi ketentuan tersebut namun tetap mengakses atau menggunakan Aplikasi, Layanan, Konten Pihak Ketiga, Penawaran atau Metode Pembayaran, Anda menyatakan dan menjamin bahwa tindakan Anda membuka, mengakses atau melakukan aktivitas lain dalam Aplikasi telah disetujui oleh orang tua, wali atau pengampu Anda. Anda secara tegas mengesampingkan setiap hak berdasarkan hukum untuk membatalkan atau mencabut setiap dan seluruh persetujuan yang Anda berikan berdasarkan Ketentuan Penggunaan ini pada waktu Anda dianggap telah dewasa secara hukum.\n
+Anda setuju untuk mengakses atau menggunakan Aplikasi, Layanan, Konten Pihak Ketiga, Penawaran atau Metode Pembayaran hanya untuk tujuan sebagaimana ditentukan dalam Ketentuan Penggunaan ini dan tidak menyalahgunakan atau menggunakan Aplikasi, Layanan, Konten Pihak Ketiga, Penawaran atau Metode Pembayaran untuk tujuan penipuan, menyebabkan ketidaknyamanan kepada orang lain, melakukan pemesanan palsu atau yang tindakan-tindakan lain yang dapat atau dianggap dapat menimbulkan kerugian dalam bentuk apapun terhadap orang lain.\n
+Anda memahami dan menyetujui bahwa seluruh resiko yang timbul dari penggunaan Aplikasi, Layanan, Konten Pihak Ketiga, Penawaran dan Metode Pembayaran sepenuhnya menjadi tanggung jawab Anda dan Anda dengan ini setuju untuk melepaskan Kami dari segala tuntutan apapun sehubungan dengan kerusakan, gangguan, atau bentuk lain dari gangguan sistem yang disebabkan oleh akses tidak resmi oleh pihak lain.\n
+Anda secara tegas membebaskan Kami, termasuk namun tidak terbatas pada, pejabat, direktur, komisaris, karyawan dan agen Kami, dari dari setiap dan semua kewajiban, konsekuensi, kerugian baik materiil atau immateriil, tuntutan, biaya-biaya (termasuk biaya advokat) atau tanggung jawab hukum lainnya yang timbul atau mungkin timbul akibat pelanggaran Anda terhadap Ketentuan Penggunaan ini maupun sehubungan dengan tindakan Penyedia Layanan, Penyedia Konten Pihak Ketiga, Penyedia Penawaran atau Penyedia Metode Pembayaran.\n
+Dikecualikan dari ketentuan di atas, jika terdapat kerugian langsung akibat pelanggaran Kami terhadap Ketentuan Penggunaan ini, maka Anda setuju dan secara tegas membatasi jumlah tuntutan Anda sebesar jumlah keseluruhan yang senyatanya ditimbulkan atau telah dibayarkan sehubungan dengan peristiwa tersebut.\n
+ANDA MENGAKUI BAHWA KAMI ADALAH LEMBAGA SWADAYA MASYARAKAT, BUKAN PERUSAHAAN TRANSPORTASI, KURIR, POS, JASA PENGANTARAN, LOGISTIK, KEUANGAN DAN LAIN-LAIN DAN KAMI TIDAK MEMBERIKAN LAYANAN TRANSPORTASI, KURIR, POS, JASA PENGANTARAN, LOGISTIK, KEUANGAN DAN LAYANAN LAIN. SEMUA LAYANAN TRANSPORTASI, KURIR, POS, JASA PENGANTARAN, LOGISTIK, KEUANGAN DAN LAYANAN LAIN DISEDIAKAN PIHAK KETIGA INDEPENDEN YANG TIDAK DIPEKERJAKAN OLEH KAMI.\n
+DENGAN MELANJUTKAN AKSES ATAU PENGGUNAAN TERHADAP APLIKASI RPI DAN/ATAU LAYANAN, ANDA SETUJU UNTUK TUNDUK DAN MEMATUHI SEMUA KETENTUAN PERATURAN PERUNDANG-UNDANGAN TERKAIT DAN KETENTUAN PENGGUNAAN INI, TERMASUK SEMUA PERUBAHANNYA DAN KETENTUAN PENGGUNAAN DARI SETIAP PENYEDIA LAYANAN, PENYEDIA KONTEN PIHAK KETIGA, PENYEDIA PENAWARAN ATAU PENYEDIA METODE PEMBAYARAN. SEGERA HENTIKAN AKSES ATAU PENGGUNAAN APLIKASI RPI DAN/ATAU LAYANAN JIKA ANDA TIDAK SETUJU DENGAN BAGIAN APAPUN DARI KETENTUAN PENGGUNAAN INI.\n\n
+16.	Keadaan Kahar\n
+Aplikasi dapat diinterupsi oleh kejadian di luar kewenangan atau kontrol Kami (“Keadaan Kahar”), termasuk namun tidak terbatas pada bencana alam, gangguan listrik, gangguan telekomunikasi, kebijakan pemerintah, dan lain-lain. Anda setuju untuk membebaskan Kami dari setiap tuntutan dan tanggung jawab, jika Kami tidak dapat memfasilitasi Layanan, termasuk memenuhi instruksi yang Anda berikan melalui Aplikasi, baik sebagian maupun seluruhnya, karena suatu Keadaan Kahar.\n\n
+17.	Lain-lain\n
+Anda mengerti dan setuju bahwa Ketentuan Penggunaan ini merupakan perjanjian dalam bentuk elektronik dan tindakan Anda menekan tombol ‘daftar’ saat pembukaan Akun atau tombol ‘masuk’ saat akan mengakses Akun Anda merupakan persetujuan aktif Anda untuk mengikatkan diri dalam perjanjian dengan Kami sehingga keberlakuan Ketentuan Penggunaan ini dan Kebijakan Privasi adalah sah dan mengikat secara hukum dan terus berlaku sepanjang penggunaan Aplikasi dan Layanan oleh Anda.\n
+Anda tidak akan mengajukan tuntutan atau keberatan apapun terhadap keabsahan dari Ketentuan Penggunaan atau Kebijakan Privasi yang dibuat dalam bentuk elektronik.\n
+Anda tidak dapat mengalihkan hak Anda berdasarkan Ketentuan Penggunaan ini tanpa persetujuan tertulis sebelumnya dari Kami. Namun, Kami dapat mengalihkan hak Kami berdasarkan Ketentuan Penggunaan ini setiap saat kepada pihak lain tanpa perlu mendapatkan persetujuan terlebih dahulu dari atau memberikan pemberitahuan sebelumya kepada Anda.\n
+Bila Anda tidak mematuhi atau melanggar ketentuan dalam Ketentuan Penggunaan ini, dan Kami tidak mengambil tindakan secara langsung, bukan berarti Kami mengesampingkan hak Kami untuk mengambil tindakan yang diperlukan di kemudian hari.\n
+Ketentuan ini tetap berlaku bahkan setelah pembekuan sementara, pembekuan permanen, penghapusan Aplikasi atau setelah berakhirnya perjanjian ini antara Anda dan Kami.\n
+Jika salah satu dari ketentuan dalam Ketentuan Penggunaan ini tidak dapat diberlakukan, hal tersebut tidak akan memengaruhi ketentuan lainnya.\n
+Kami membuat Ketentuan Penggunaan ini dalam bahasa Indonesia dan Inggris. Setiap perbedaan akan diartikan sesuai dengan bahasa Indonesia.\n
+Ketentuan Penggunaan ini diatur berdasarkan hukum Republik Indonesia. Setiap dan seluruh perselisihan yang timbul dari penggunaan Aplikasi atau Layanan tunduk pada yurisdiksi eksklusif Pengadilan Negeri Jakarta Selatan.\n\n
+18.	Cara Menghubungi Kami\n
+Anda dapat menghubungi Kami melalui surat elektronik ke resourcefulparenting02@gmail.com atau melalui telepon ke nomor 0896-6548-9899 atau 0812-1541-0709 (WhatsApp). Semua korespondensi Anda akan dicatat, direkam dan disimpan untuk arsip Kami.\n
+Saya telah membaca dan mengerti seluruh Ketentuan Penggunaan ini dan konsekuensinya dan dengan ini menerima setiap hak, kewajiban, dan ketentuan yang diatur di dalamnya.\n\n
+
+</string>
+    <string name="abt_us">Resourceful Parenting Indonesia (RPI) didirikan oleh dr. Andyda Meliala pada tanggal 7 Maret 2011. RPI bergerak di bidang parenting berdasarkan kecerdasan majemuk, perkembangan dan plastisitas otak.
+\nRPI menyediakan informasi dan pengetahuan untuk memberdayakan orang tua dan anak Indonesia. RPI punya visi setiap orang dewasa memiliki sumber pengetahuan untuk membesarkan dan mendidik anak.
+\nRPI mempunyai Misi Membekali orang dewasa dengan berbagai sumber pengetahuan yang memadai untuk mendampingi pertumbuhan pikiran, jasmani, dan rohani anak secara terintegrasi.  </string>
+    <string name="skip_questions">Lewati pertanyaan</string>
+    <string name="complete_child_questionnaire">Complete child questionnaire</string>
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "957218657685",
+    "firebase_url": "https://resourcefulparenting-4b687.firebaseio.com",
+    "project_id": "resourcefulparenting-4b687",
+    "storage_bucket": "resourcefulparenting-4b687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957218657685:android:aa0534c345f12d1c92529c",
+        "android_client_info": {
+          "package_name": "com.resourcefulparenting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957218657685-j0mgm0mnso0l5knspv7j8rf5ej0jrvev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk83FiFmi9d_5JDDVAG3t2EobLP4D8RJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957218657685-j0mgm0mnso0l5knspv7j8rf5ej0jrvev.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "957218657685-0nn2iakuj4ulovcvdbljb7q3jkloh6re.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.au.ResourcefulParenting"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

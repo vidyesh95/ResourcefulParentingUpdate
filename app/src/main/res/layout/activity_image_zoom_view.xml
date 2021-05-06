@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mRoot"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:fitsSystemWindows="false"
+    >
+
+
+    <RelativeLayout
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:background="@color/blue_top"
+        android:layout_height="?attr/actionBarSize">
+
+        <LinearLayout
+            android:id="@+id/llMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="15dp"
+            android:padding="5dp">
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:src="@drawable/back_blue_img"
+                tools:ignore="ContentDescription" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="10dp"
+            android:layout_toEndOf="@+id/llMenu"
+            android:fontFamily="@font/brandon_grotesque_medium"
+            android:text="Kembali"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            tools:ignore="RelativeOverlap" />
+
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar"
+
+
+        >
+
+        <com.resourcefulparenting.util.TouchImageView
+            android:id="@+id/image_zoom"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:layout_centerInParent="true"
+            android:scaleType="fitXY" />
+        />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

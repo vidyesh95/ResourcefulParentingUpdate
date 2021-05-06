@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MaterialButton" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <!-- Customize your theme here. -->
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">5dp</item>
+        <item name="backgroundTint">@color/change_profile_btn</item>
+    </style>
+
+    <style name="TextInputLayoutAppearance" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <!-- Customize your theme here. -->
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+    </style>
+
+    <style name="spinnerTheme">
+        <item name="backgroundColor">@color/milestone_bg</item>
+    </style>
+
+    <style name="BottomNavigationTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--@color/active_tab_color-->
+        <item name="colorPrimary">@color/black</item>
+    </style>
+
+    <style name="FacebookLoginButton">
+        <item name="android:textSize">12dp</item>
+        <item name="android:background">@drawable/fb</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+
+    <style name="Theme.Transparent" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/transparent</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+
+    </style>
+</resources>

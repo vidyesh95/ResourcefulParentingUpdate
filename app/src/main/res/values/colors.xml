@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#03DAC5</color>
+    <color name="colorAccent">#3700B3</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="red">#ff0000</color>
+    <color name="yellow">#ffff00</color>
+    <color name="light_yellow">#FFFF99</color>
+    <color name="light_green">#00de7a</color>
+    <color name="light_blue">#2196F3</color>
+    <color name="light_green_transparent">#CC00DE7A</color>
+    <color name="orange">#ff6724</color>
+    <color name="lightSemiBlack">#33000000</color>
+    <color name="blue">#5346cf</color>
+    <color name="orange_top">#ff803b</color>
+    <color name="orange_bottom">#ff5a00</color>
+    <color name="blue_top">#00c0ff</color>
+    <color name="blue_bottom">#03a8de</color>
+    <color name="appbar_top">#b0e5f6</color>
+    <color name="appbar_bottom">#fafeff</color>
+    <color name="account_odd">#f5fcfe</color>
+    <color name="account_even"> #e5f7fc</color>
+    <color name="card_view_bg"> #f3fbfe</color>
+    <color name="change_profile_btn">#14d8bf</color>
+    <color name="red_top">#ff0018</color>
+    <color name="red_bottom">#f30e03</color>
+    <color name="light_orange_top">#ffd851</color>
+    <color name="light_orange_bottom">#fdb33f</color>
+    <color name="target_activity_bg">#03a9e0</color>
+    <color name="description_bg">#f3fbfd</color>
+    <color name="milestone_bg">#3e61e4</color>
+    <color name="navigation_bg">#fbf6f0</color>
+    <color name="red_light">#aaff0000</color>
+
+    <color name="language">#FF5842</color>
+    <color name="language_dark">#8a1104</color>
+
+    <color name="logic">#003AFA</color>
+    <color name="logic_dark">#011f84</color>
+
+    <color name="physical">#EB008B</color>
+    <color name="physical_dark">#890051</color>
+
+    <color name="intrapersonal">#90278E</color>
+    <color name="intrapersonal_dark">#421343</color>
+
+    <color name="interpersonal">#FECB00</color>
+    <color name="interpersonal_dark">#895c0d</color>
+
+    <color name="spatial">#BE1E2D</color>
+    <color name="spatial_dark">#7b141e</color>
+
+    <color name="music">#02a2aa</color>
+    <color name="music_dark">#013336</color>
+
+    <color name="environment">#00CE86</color>
+    <color name="environment_dark">#005839</color>
+
+    <color name="circle_points_earned">#14d8bf</color>
+    <color name="activty_list_bg">#f5fdff</color>
+    <color name="border_listing">#d5d5d5</color>
+</resources>

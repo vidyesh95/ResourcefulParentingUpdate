@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="dp40">40dp</dimen>
+    <dimen name="dp60">60dp</dimen>
+    <dimen name="dp80">80dp</dimen>
+    <dimen name="dp100">100dp</dimen>
+    <dimen name="dp120">120dp</dimen>
+    <dimen name="dp140">140dp</dimen>
+    <dimen name="dp160">160dp</dimen>
+    <dimen name="dp200">200dp</dimen>
+    <dimen name="dp800">800dp</dimen>
+</resources>
